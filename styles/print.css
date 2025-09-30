@@ -1,0 +1,21 @@
+nav,
+#image-flex,
+img {
+  display: none;
+}
+
+body {
+  font-family: serif;
+  color: black;
+  background: white;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+header, footer {
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
